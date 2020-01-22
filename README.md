@@ -1,5 +1,5 @@
 # VAC Bypass Loader
-Loader for [VAC Bypass](https://github.com/danielkrupinski/VAC-Bypass) written in C.
+Loader for [VAC Bypass](https://github.com/pwn0sec/VAC-Bypass) written in C.
 
 ## Getting started
 
@@ -9,7 +9,7 @@ Microsoft Visual Studio 2019 (preferably the latest version), platform toolset v
 ### Cloning
 The very first step in order to compile VAC Bypass Loader is to clone this repo from GitHub to your local computer. Git is required to step futher, if not installed download it [here](https://git-scm.com). Open git bash / git cmd / cmd and enter following command:
 ```
-git clone https://github.com/danielkrupinski/VAC-Bypass-Loader.git
+git clone https://github.com/pwn0sec/VAC-Bypass-Loader.git
 ```
 `VAC-Bypass-Loader` folder should have been succesfully created, containing all the source files.
 
